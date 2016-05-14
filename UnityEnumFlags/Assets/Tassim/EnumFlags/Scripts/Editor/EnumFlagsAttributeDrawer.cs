@@ -1,6 +1,5 @@
 ﻿// from http://www.sharkbombs.com/2015/02/17/unity-editor-enum-flags-as-toggle-buttons/
-// Extended by Tassim to handle GUIContent.none // mailto : thomas.tabbaza@gmail.com
-// Also, flags should always start with a default value of 0, this was not considered
+// Extended by Tassim 
 
 using UnityEditor;
 using UnityEngine;
