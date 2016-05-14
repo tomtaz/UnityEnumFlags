@@ -2,6 +2,7 @@
 Unity extension for enum flags
 
 ![EnumFlags Inspector](/InspectorView.png)
+![Sharkbomb's example](http://www.sharkbombs.com/wp-content/uploads/2015/02/ToggleButtonFlags.gif)
 
 Example : 
 
