@@ -1,6 +1,8 @@
 # UnityEnumEditor
 Unity editor extension for enums
 
+![EnumEditor Inspector](/InspectorView.png)
+
 Example : 
 
 ```C#
@@ -40,3 +42,8 @@ To use it in your own custom inspectors, this is the way :
   // GUIContent.none removes the text in front of the enum line
   EditorGUILayout.PropertyField(mySerlializedObject.FindProperty("MyEnumName") /*, GUIContent.none */);
 ```
+
+Links : 
+* [Sharkbombs blog entry] (http://www.sharkbombs.com/2015/02/17/unity-editor-enum-flags-as-toggle-buttons/)
+* [A Chinese blog entry] (http://baba-s.hatenablog.com/entry/2014/08/10/130145)
+
