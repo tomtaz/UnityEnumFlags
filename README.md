@@ -5,6 +5,8 @@ Unity extension for enum flags
 
 Example : 
 
+Enums should start with a default value of 0 if you want it to work with this extension
+
 ```C#
     // A Flags enum
     [Flags]
