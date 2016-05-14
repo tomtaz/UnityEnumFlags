@@ -1,7 +1,7 @@
-# UnityEnumEditor
-Unity editor extension for enums
+# UnityEnumFlags
+Unity extension for enum flags
 
-![EnumEditor Inspector](/InspectorView.png)
+![EnumFlags Inspector](/InspectorView.png)
 
 Example : 
 
@@ -17,7 +17,7 @@ Example :
         Racoon = 16
     }
 
-    public class EnumEditorExample : MonoBehaviour {
+    public class EnumFlagsExample : MonoBehaviour {
         // Use attribute EnumFlags to enable EnumEditor
         [EnumFlags]
         public AnimalType Animal;

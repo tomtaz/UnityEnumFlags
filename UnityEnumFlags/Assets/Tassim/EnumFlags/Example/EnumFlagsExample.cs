@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System;
 
-namespace EnumEditorTest {
+namespace EnumFlagsTest {
     // A Flags enum
     [Flags]
     public enum AnimalType {
@@ -13,7 +13,7 @@ namespace EnumEditorTest {
         Racoon = 16
     }
 
-    public class EnumEditorExample : MonoBehaviour {
+    public class EnumFlagsExample : MonoBehaviour {
         // Use attribute EnumFlags to enable EnumEditor
         [EnumFlags]
         public AnimalType Animal;
