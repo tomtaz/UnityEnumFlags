@@ -5,7 +5,7 @@
 using UnityEditor;
 using UnityEngine;
 
-[CustomPropertyDrawer(typeof(EnumFlagAttribute))]
+[CustomPropertyDrawer(typeof(EnumFlagsAttribute))]
 public class EnumFlagsAttributeDrawer : PropertyDrawer {
     public override void OnGUI(Rect pos, SerializedProperty prop, GUIContent label) {
         // -1 accounts for the Default value wich should always be 0, thus not displayed
