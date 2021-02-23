@@ -48,5 +48,5 @@ To use it in your own custom inspectors, this is the way :
 
 Links : 
 * [Sharkbombs blog entry] (http://www.sharkbombs.com/2015/02/17/unity-editor-enum-flags-as-toggle-buttons/)
-* [A Japanese blog entry] (http://baba-s.hatenablog.com/entry/2014/08/10/130145)
+* [Blog entry] (http://baba-s.hatenablog.com/entry/2014/08/10/130145)
 
